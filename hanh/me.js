@@ -17,3 +17,8 @@ while (i<3){
 var result = 0;
    console.log(result)
 }
+function showTheResult(){
+    document.getElementById('test').innerHTML='2';
+    console.log('result')
+}
+
